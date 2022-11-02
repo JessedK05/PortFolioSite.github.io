@@ -1,0 +1,41 @@
+.bgColourHomePage{
+    background-image: url(https://cdn.futura-sciences.com/sources/images/prehistoire-internet.jpg);
+}
+
+.HomeCard{
+    padding-left: 175px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.projectCardDisp{
+    display: inline-flex;
+}
+.projectCardPadding{
+    padding-left: 210px;
+    padding-bottom: 100px;
+}
+
+.bgCodeTxT{
+    background: rgb(69, 187, 33);
+}
+
+.bgCodeHTML{
+    background: rgb(240, 140, 0);
+}
+
+.bgCodeCSS{
+    background: rgb(0, 192, 240);
+}
+
+.footerAlignment{
+    margin-bottom: 0%;
+}
+.ContactMEdisp{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.CarouselPadding{
+    padding-top: 50px;
+}
