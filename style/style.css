@@ -1,5 +1,9 @@
 .bgColourHomePage{
-    background-image: url(https://cdn.futura-sciences.com/sources/images/prehistoire-internet.jpg);
+    background-image: url(https://img.freepik.com/premium-vector/abstract-background-with-modern-style-hexagon-pattern_7505-1736.jpg?w=2000);
+}
+
+.Center{
+    padding-left: 650px;
 }
 
 .HomeCard{
@@ -29,11 +33,11 @@
 }
 
 .footerAlignment{
-    margin-bottom: 0%;
+    margin-bottom: 0;
 }
 .ContactMEdisp{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 132px;
+    padding-bottom: 132px;
 }
 
 .CarouselPadding{
